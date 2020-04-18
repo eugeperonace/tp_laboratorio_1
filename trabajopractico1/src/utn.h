@@ -8,6 +8,8 @@
 #ifndef UTN_H_
 #define UTN_H_
 
+//Prototipos de mis funciones
+
 int utn_getNumero(int* pResultado,char* mensaje,char* mensajeError,int minimo,int maximo,int reintentos);
 int sumar(int operador1,int operador2);
 int restar(int operador1,int operador2);

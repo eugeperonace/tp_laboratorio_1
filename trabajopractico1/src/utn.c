@@ -10,7 +10,7 @@
 
 //Funciones creadas para las operaciones de la calculadora:
 
-//1)Prototipo de la funcion multiplicar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
+//1)Código de la funcion multiplicar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
 int multiplicar(int operador1,int operador2)
 {
 	int resultado;
@@ -18,7 +18,7 @@ int multiplicar(int operador1,int operador2)
 	return resultado;
 }
 
-//2)//1)Prototipo de la funcion sumar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
+//2)//1)Código de la funcion sumar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
 int sumar(int operador1,int operador2)
 {
 	int resultado;
@@ -26,7 +26,7 @@ int sumar(int operador1,int operador2)
 	return resultado;
 }
 
-//3)//1)Prototipo de la funcion restar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
+//3)//1)Código de la funcion restar (cada operador recibe un tipo de dato INT y la funcion devuelve un INT)
 int restar(int operador1,int operador2)
 {
 	int resultado;
@@ -34,7 +34,7 @@ int restar(int operador1,int operador2)
 	return resultado;
 }
 
-//4)//1)Prototipo de la funcion dividir (cada operador recibe un tipo de dato INT y la funcion devuelve un FLOAT)
+//4)//1)Código de la funcion dividir (cada operador recibe un tipo de dato INT y la funcion devuelve un FLOAT)
  float dividir(int operador1,int operador2)
 {
 	float resultado;
